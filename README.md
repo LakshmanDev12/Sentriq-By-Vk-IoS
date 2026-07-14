@@ -767,7 +767,7 @@ Passionate about building secure, scalable, and impactful applications that solv
 
 <div align="center">
 
-## 🛡️ Sentriq
+<img src="Sentriq.png" alt="Sentriq Logo" width="180"/>
 
 ### **Because safety should always travel with you.**
 
