@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="Sentriq.png" alt="Sentriq Logo" width="180"/>
-# 🛡️ Sentriq
+
 
 ### **A Real-Time Personal Safety Platform Built with Flutter**
 
